@@ -1,5 +1,4 @@
 import { setPokemons, startLoadingPokemons } from "./pokemonSlice";
-import axios from "axios";
 import { pokemonApi } from "../../../api/pokemonApi";
 
 
